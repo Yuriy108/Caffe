@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Caffe</string>
+    <string name="button">Отправить</string>
+    <string-array name="tea">
+        <item>Black</item>
+        <item>Green</item>
+        <item>Flower</item>
+    </string-array>
+    <string-array name="cofe">
+        <item>Late</item>
+        <item>Americano</item>
+        <item>Expresso</item>
+        <item>Capuchino</item>
+    </string-array>
+</resources>
